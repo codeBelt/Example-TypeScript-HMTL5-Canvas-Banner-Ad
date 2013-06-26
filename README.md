@@ -1,4 +1,6 @@
-Example-TypeScript-HMTL5-Canvas-Banner-Ad
+HTML5 Canvas Banner Ads with Greensock Tweening and TypeScript Tutorial
 =========================================
 
-HTML5 Canvas Banner Ads with Greensock Tweening and TypeScript Tutorial
+Check out the tutorial at <a href="http://www.codebelt.com/typescript/html5-canvas-banner-ads-with-greensock-tweening-and-typescript-tutorial/">http://www.codebelt.com/typescript/html5-canvas-banner-ads-with-greensock-tweening-and-typescript-tutorial/</a> on how to use these files.
+
+
