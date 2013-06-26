@@ -47,7 +47,7 @@ class CanvasElement extends DisplayObject {
         this.context.save();
     }
 
-    private layoutChildren():void
+    public layoutChildren():void
     {
         if (!this.context || this.alpha <= 0 || !this.visible) return;
 

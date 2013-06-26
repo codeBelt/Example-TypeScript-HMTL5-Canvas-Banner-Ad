@@ -43,7 +43,7 @@ class EventDispatcher {
         }
 
         return this;
-    };
+    }
 
     public dispatchEvent(type:string, data:any=null):any
     {
@@ -65,6 +65,6 @@ class EventDispatcher {
         }
 
         return this;
-    };
+    }
 
 }
